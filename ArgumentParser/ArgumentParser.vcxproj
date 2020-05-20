@@ -20,11 +20,11 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{A6BB0DB2-F5E7-4A50-B149-BC8E796E8DAA}</ProjectGuid>
+    <ProjectGuid>{D11FFDBF-C205-4BDD-B593-E69A9F25D8EA}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>TestCPP</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Attribute Parser</ProjectName>
+    <ProjectName>ArgumentParser</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

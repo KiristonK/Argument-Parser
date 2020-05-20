@@ -1,6 +1,6 @@
 #include <iostream>
 #include <regex>
-#include "Functions.cpp"
+#include "../Functions/Functions.cpp"
 using namespace std;
 
 /**
